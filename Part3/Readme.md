@@ -37,7 +37,7 @@ sudo crontab -l
 ```bash
 sudo tail -n 50 /var/log/system_report.log
 ```
-
+---
 ## Deliverables
 The required deliverables for Part3-
 1) Contents of the cron configuration file used- [Content_Cron.png](Content_Cron.png)
