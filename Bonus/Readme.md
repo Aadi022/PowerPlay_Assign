@@ -7,11 +7,6 @@ This bonus task adds an SNS-based alert that sends an email when disk usage on t
    aws sns create-topic \
      --name disk-alert-topic \
      --region us-east-1
-### 2. Connect to EC2 via SSH
-Connected from WSL using the downloaded SSH key:
-
-```bash
-ssh -i "assign.pem" ubuntu@ec2-34-203-106-114.compute-1.amazonaws.com
 ```
 ### 2. Subscribed the email address to the SNS topic
 ```bash
