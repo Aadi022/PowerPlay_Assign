@@ -1,7 +1,7 @@
 # Part 1: Environment Setup
 
 ### 1. Launch EC2 Instance
-- A **t2.micro Ubuntu EC2** instance (Free Tier eligible) was launched using the AWS Management Console.
+- A **t2.micro Ubuntu EC2** instance was launched using the AWS Management Console.
 
 ### 2. Connect to EC2 via SSH
 Connected from WSL using the downloaded SSH key:
