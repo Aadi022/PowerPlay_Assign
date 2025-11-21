@@ -50,7 +50,7 @@ sudo systemctl restart nginx
 ### 5. Accessed the page from browser
 URL- http://34.203.106.114
 
-
+---
 ## Deliverables
 The required deliverables for Part-2 is in [Web.png](Web.png)
 
