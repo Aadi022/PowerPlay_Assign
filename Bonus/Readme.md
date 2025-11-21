@@ -46,6 +46,7 @@ aws sns publish \
   --region us-east-1
 ```
 SNS Mail: [Deliverable.png](Deliverable.png)
+
 ---
 ## Deliverables
 SNS Mail: [Deliverable.png](Deliverable.png)
